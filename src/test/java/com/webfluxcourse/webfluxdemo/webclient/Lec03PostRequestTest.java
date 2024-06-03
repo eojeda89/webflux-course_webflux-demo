@@ -1,4 +1,4 @@
-package com.webfluxcourse.webfluxdemo;
+package com.webfluxcourse.webfluxdemo.webclient;
 
 import com.webfluxcourse.webfluxdemo.dto.MultiplyRequestDto;
 import com.webfluxcourse.webfluxdemo.dto.Response;

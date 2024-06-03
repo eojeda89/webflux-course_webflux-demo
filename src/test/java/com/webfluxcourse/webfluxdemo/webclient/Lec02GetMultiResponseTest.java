@@ -1,11 +1,10 @@
-package com.webfluxcourse.webfluxdemo;
+package com.webfluxcourse.webfluxdemo.webclient;
 
 import com.webfluxcourse.webfluxdemo.dto.Response;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Flux;
-import reactor.core.publisher.Mono;
 import reactor.test.StepVerifier;
 
 public class Lec02GetMultiResponseTest extends BaseTest{
